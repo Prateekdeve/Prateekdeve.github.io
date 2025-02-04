@@ -1,0 +1,12 @@
+.git{
+  display:flex;
+  align-items:center;
+  justify-content:left;
+  margin:10px;
+}
+.row{
+  margin:5px;
+  padding:1px;
+  width:20%;
+  max-width:80%;
+}
